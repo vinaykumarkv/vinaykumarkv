@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinaykumarkv
-- 👀 I’m interested in DevOps, Data Architecture, RPA and Python
-- 🌱 I’m currently learning RPA, Data systems and Python
-- 💞️ I’m looking to collaborate on projects related to automated data systems, full stack web platforms with python, and anything that helps me to touch base on DevOps.
+- 👀 I’m interested in Python, Big Data and AI
+- 🌱 I’m currently learning Python and Big Data at moment
+- 💞️ I’m looking to collaborate on projects related to automated data systems and full stack web platforms with python
 - 📫 Reach me kvvk.win@gmail.com or vist my profile: https://www.linkedin.com/in/vinay-kumar-k-v/
 
 <!---
