@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @vinaykumarkv
-- 👀 I’m interested in Python, Big Data and AI
-- 🌱 I’m currently learning Python and helping my project and developer community with open source reusable code to address their business issues.
-- 💞️ I’m looking to collaborate on projects related to automated data systems and full stack web platforms with python
-- 📫 Reach me : https://www.linkedin.com/in/vinay-kumar-k-v/
-- Mail ID: vinaykumar.kv@outlook.com
+👋 Hi there, I’m Vinay Kumar K V (@vinaykumarkv)
+
+- 👀 Passionate about **Python**, **Data Engineering**, and **Artificial Intelligence**
+- 🌱 Currently learning and contributing to open-source by building reusable Python solutions that help solve real-world business problems
+- 🤝 Open to collaborations on **automated data systems**, **AI-driven tools**, and **full-stack web platforms using Python**
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-kumar-k-v/)  
+- 📧 Email: vinaykumar.kv@outlook.com
 
 <!---
 vinaykumarkv/vinaykumarkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
