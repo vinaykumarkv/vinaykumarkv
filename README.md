@@ -5,6 +5,7 @@
 - 🤝 Open to collaborations on **automated data systems**, **AI-driven tools**, and **full-stack web platforms using Python**
 - 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/vinay-kumar-k-v/)  
 - 📧 Email: vinaykumar.kv@outlook.com
+- Resume - https://vinaykumarkv.github.io/
 
 <!---
 vinaykumarkv/vinaykumarkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
