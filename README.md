@@ -21,7 +21,9 @@
 📌 **[AI-Powered Data Dashboard](https://github.com/vinaykumarkv/ai-data-dashboard)**  
   - Built a scalable web-based dashboard integrating AI predictions for business insights.  
   - Used Python, Flask, and Scikit-Learn for backend and visualization with Plotly.
-
+📌 **[Amazon ETL Framework](https://github.com/vinaykumarkv/amazon-etl-framework)**  
+  - Developed a Python-based ETL pipeline to process Amazon product data, including sentiment analysis on reviews using TextBlob.  
+  - Features data cleaning, SQLite storage, correlation analysis, and visualizations with Matplotlib.
 ---
 
 ### 📈 **GitHub Stats**
