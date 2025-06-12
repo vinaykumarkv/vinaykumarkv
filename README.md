@@ -21,10 +21,15 @@
 📌 **[AI-Powered Data Dashboard](https://github.com/vinaykumarkv/ai-data-dashboard)**  
   - Built a scalable web-based dashboard integrating AI predictions for business insights.  
   - Used Python, Flask, and Scikit-Learn for backend and visualization with Plotly.
----
+
 📌 **[Amazon ETL Framework](https://github.com/vinaykumarkv/amazon-etl-framework)**  
   - Developed a Python-based ETL pipeline to process Amazon product data, including sentiment analysis on reviews using TextBlob.  
   - Features data cleaning, SQLite storage, correlation analysis, and visualizations with Matplotlib.
+
+📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
+  - Created a reusable tool for digitally signing XML files per ASTM standards, ensuring secure data exchange in industries like healthcare and finance.  
+  - Implemented in [Python](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python), [Java](https://github.com/vinaykumarkv/XMLDigSignerASTM_Java), and [.NET](https://github.com/vinaykumarkv/XMLDigSignerASTM_Dotnet) for cross-platform compatibility.
+
 ---
 
 ### 📈 **GitHub Stats**
