@@ -8,6 +8,7 @@
 ---
 
 ### 🛠️ **Skills & Technologies**
+### **VIBE CODING** 
 - **Programming:** Python, JavaScript (basic), Java (basic)
 - **Data Engineering:** Pandas, NumPy, SQL, ETL pipelines
 - **AI & ML:** TensorFlow, Scikit-Learn, PyTorch
