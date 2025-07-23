@@ -42,5 +42,5 @@
 ---
 
 ### 🤝 **Let’s Collaborate!**
-I’m always open to contributing to exciting projects and sharing knowledge. Feel free to reach out or collaborate on projects related to **data systems**, **AI tools**, or **web platforms**.  
+I’m always open to contributing to exciting projects and sharing knowledge. Feel free to reach out or collaborate on projects related to **data systems**.  
 Let’s build something amazing together! 🚀
