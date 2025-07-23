@@ -1,17 +1,15 @@
 # Hi there, I’m Vinay Kumar K V! 👋
 
 👨‍💻 **About Me**  
-🚀 Passionate about **Python**, **Data Engineering**, and **Artificial Intelligence**  
+🚀 Passionate about **Data Engineering** 
 🌱 Currently contributing to **open-source** by building reusable **Python solutions** that solve **real-world business problems**  
-🤝 Open to collaborations on **automated data systems**, **AI-driven tools**, and **full-stack web platforms using Python**
+🤝 Open to collaborations on **automated data systems using Python**
 
 ---
 
 ### 🛠️ **Skills & Technologies**
-### **VIBE CODING** 
 - **Programming:** Python, JavaScript (basic), Java (basic)
 - **Data Engineering:** Pandas, NumPy, SQL, ETL pipelines
-- **AI & ML:** TensorFlow, Scikit-Learn, PyTorch
 - **Web Development:** HTML, CSS, Flask
 - **Tools:** GitHub, Docker, Azure DevOps, Jira, Miro, Git
 - **UI/UX:** Figma, Visio
@@ -19,10 +17,6 @@
 ---
 
 ### 🌟 **Featured Projects**
-📌 **[AI-Powered Data Dashboard](https://github.com/vinaykumarkv/ai-data-dashboard)**  
-  - Built a scalable web-based dashboard integrating AI predictions for business insights.  
-  - Used Python, Flask, and Scikit-Learn for backend and visualization with Plotly.
-
 📌 **[Amazon ETL Framework](https://github.com/vinaykumarkv/amazon-etl-framework)**  
   - Developed a Python-based ETL pipeline to process Amazon product data, including sentiment analysis on reviews using TextBlob.  
   - Features data cleaning, SQLite storage, correlation analysis, and visualizations with Matplotlib.
