@@ -17,7 +17,7 @@
 ---
 
 ### 🌟 **Featured Projects**
-📌 **[Amazon ETL Framework](https://github.com/vinaykumarkv/etl_project)**  
+📌 **[ETL Pipeline with Python and Airflow](https://github.com/vinaykumarkv/etl_project)**  
   - Developed a Python-based ETL pipeline to process CSV sales data.  
   - Features data cleaning, postgress DB storage.
 
