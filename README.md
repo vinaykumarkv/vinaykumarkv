@@ -21,6 +21,10 @@
   - Developed a Python-based ETL pipeline to process CSV sales data.  
   - Features data cleaning, postgress DB storage.
 
+📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
+  - Designed star schema for pharma based data and used python to load and transform data.  
+  - features snowflake and python.
+
 📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
   - Created a reusable tool for digitally signing XML files per ASTM standards, ensuring secure data exchange in industries like healthcare and finance.  
   - Implemented in [Python](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python), [Java](https://github.com/vinaykumarkv/XMLDigSignerASTM_Java), and [.NET](https://github.com/vinaykumarkv/XMLDigSignerASTM_Dotnet) for cross-platform compatibility.
