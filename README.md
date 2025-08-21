@@ -17,17 +17,22 @@
 ---
 
 ### 🌟 **Featured Projects**
+
 📌 **[ETL Pipeline with Python and Airflow](https://github.com/vinaykumarkv/etl_project)**  
-  - Developed a Python-based ETL pipeline to process CSV sales data.  
-  - Features data cleaning, postgress DB storage.
+- Built an automated ETL pipeline using **Python** and **Apache Airflow** to ingest and process sales data from CSV files.  
+- Implemented data cleaning, transformation, and loading into a **PostgreSQL** database for downstream analytics.  
 
 📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
-  - Designed star schema for pharma based data and used python to load and transform data.  
-  - features snowflake and python.
+- Designed and implemented a **Star Schema** for pharmaceutical sales and prescription data.  
+- Used **Python** for data ingestion and transformation, and **Snowflake** for scalable data storage and querying.  
+
+📌 **[Data Quality Validation Framework](https://github.com/vinaykumarkv/data-quality-validation-framework)**  
+- Developed a reusable **Python + Pytest** framework to validate data quality before loading into dashboards.  
+- Automated checks for schema consistency, null handling, and referential integrity to ensure reliable analytics.  
 
 📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
-  - Created a reusable tool for digitally signing XML files per ASTM standards, ensuring secure data exchange in industries like healthcare and finance.  
-  - Implemented in [Python](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python), [Java](https://github.com/vinaykumarkv/XMLDigSignerASTM_Java), and [.NET](https://github.com/vinaykumarkv/XMLDigSignerASTM_Dotnet) for cross-platform compatibility.
+- Created a reusable tool to digitally sign **XML files** per **ASTM standards**, enabling secure data exchange in healthcare and finance.  
+- Implemented in **Python**, **Java**, and **.NET** for cross-platform compatibility. 
 
 ---
 
