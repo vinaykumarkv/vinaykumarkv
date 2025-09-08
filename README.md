@@ -8,9 +8,8 @@
 ---
 
 ### 🛠️ **Skills & Technologies**
-- **Programming:** Python, JavaScript (basic), Java (basic)
+- **Programming:** Python
 - **Data Engineering:** Pandas, NumPy, SQL, ETL pipelines
-- **Web Development:** HTML, CSS, Flask
 - **Tools:** GitHub, Docker, Azure DevOps, Jira, Miro, Git
 - **UI/UX:** Figma, Visio
 
@@ -18,9 +17,9 @@
 
 ### 🌟 **Featured Projects**
 
-📌 **[ETL Pipeline with Python and Airflow](https://github.com/vinaykumarkv/etl_project)**  
-- Built an automated ETL pipeline using **Python** and **Apache Airflow** to ingest and process sales data from CSV files.  
-- Implemented data cleaning, transformation, and loading into a **PostgreSQL** database for downstream analytics.  
+📌 **[Finance Data Engineering Portfolio](https://github.com/vinaykumarkv/Finance-Data-Engineering-Projects)**  
+- Portfolio of **18 hands-on data engineering projects** in **finance, trading, & HFT**.  
+- Building ETL pipelines with **Python, pandas, yfinance, SQL**. From stock price ingestion to real-time arbitrage.  
 
 📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
 - Designed and implemented a **Star Schema** for pharmaceutical sales and prescription data.  
