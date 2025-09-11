@@ -17,10 +17,6 @@
 
 ### 🌟 **Featured Projects**
 
-📌 **[Finance Data Engineering Portfolio](https://github.com/vinaykumarkv/Finance-Data-Engineering-Projects)**  
-- Portfolio of **18 hands-on data engineering projects** in **finance, trading, & HFT**.  
-- Building ETL pipelines with **Python, pandas, yfinance, SQL**. From stock price ingestion to real-time arbitrage.  
-
 📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
 - Designed and implemented a **Star Schema** for pharmaceutical sales and prescription data.  
 - Used **Python** for data ingestion and transformation, and **Snowflake** for scalable data storage and querying.  
