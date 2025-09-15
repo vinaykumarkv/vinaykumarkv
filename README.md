@@ -1,7 +1,7 @@
 # Hi there, I’m Vinay Kumar K V! 👋
 
 👨‍💻 **About Me**  
-🚀 Passionate about **Data Engineering** 
+🚀 Passionate about **Data & AI** 
 🌱 Currently contributing to **open-source** by building reusable **Python solutions** that solve **real-world business problems**  
 🤝 Open to collaborations on **automated data systems using Python**
 
@@ -12,6 +12,7 @@
 - **Data Engineering:** Pandas, NumPy, SQL, ETL pipelines
 - **Tools:** GitHub, Docker, Azure DevOps, Jira, Miro, Git
 - **UI/UX:** Figma, Visio
+- **Upskilling:** Data Science, ML Engineering & Gen AI
 
 ---
 
