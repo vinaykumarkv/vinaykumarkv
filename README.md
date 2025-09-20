@@ -1,18 +1,18 @@
 # Hi there, I’m Vinay Kumar K V! 👋
 
 👨‍💻 **About Me**  
-🚀 Passionate about **Data & AI** 
+🚀 **Aspiring Data Engineer | Python | SQL | ETL | Cloud | Data Quality & Automation** 
 🌱 Currently contributing to **open-source** by building reusable **Python solutions** that solve **real-world business problems**  
 🤝 Open to collaborations on **automated data systems using Python**
 
 ---
 
 ### 🛠️ **Skills & Technologies**
-- **Programming:** Python
-- **Data Engineering:** Pandas, NumPy, SQL, ETL pipelines
-- **Tools:** GitHub, Docker, Azure DevOps, Jira, Miro, Git
-- **UI/UX:** Figma, Visio
-- **Upskilling:** Data Science, ML Engineering & Gen AI
+- **Programming:** Python, SQL, PySpark, Pandas, NumPy
+- **Data Engineering:** ETL/ELT pipelines, Data Modeling (Star Schema), Data Warehousing, Airflow, dbt
+- **Cloud & Tools:** AWS (S3, Lambda, Redshift), Azure Data Services, Docker, Git/GitHub, CI/CD basics
+- **Data Quality & Compliance:** Schema validation, null handling, referential integrity, GxP/CSV compliance
+- **Visualization & Design:** Tableau/Power BI (basic), Figma, Visio
 
 ---
 
