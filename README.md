@@ -1,30 +1,30 @@
-# Hi there, I’m Vinay Kumar K V! 👋
-
 👨‍💻 **About Me**  
-🚀 **Aspiring Data Engineer | Python | SQL | ETL | Cloud | Data Quality & Automation** 
+🚀 **Vinay Kumar K V 👋 | Transitioning from Product Owner to ML/AI Engineer | Pharma & Telecom Focus | Building predictive models with Python/SQL | Sharing journey via GitHub, LinkedIn, & YouTube | vinaykumarkv.github.io** 
 🌱 Currently contributing to **open-source** by building reusable **Python solutions** that solve **real-world business problems**  
 🤝 Open to collaborations on **automated data systems using Python**
 
 ---
 
 ### 🛠️ **Skills & Technologies**
-- **Programming:** Python, SQL, PySpark, Pandas, NumPy
-- **Data Engineering:** ETL/ELT pipelines, Data Modeling (Star Schema), Data Warehousing, Airflow, dbt
-- **Cloud & Tools:** AWS (S3, Lambda, Redshift), Azure Data Services, Docker, Git/GitHub, CI/CD basics
-- **Data Quality & Compliance:** Schema validation, null handling, referential integrity, GxP/CSV compliance
-- **Visualization & Design:** Tableau/Power BI (basic), Figma, Visio
+- **Programming:** Python (Pandas, scikit-learn), SQL
+- **Data Tools:** ETL pipelines (via projects), Data Engineering Foundation
+- **Cloud & Tools:** AAWS (S3, Lambda exposure), Azure (learning)
+- **Data Quality & Compliance:** Schema validation, null handling, GxP/CSV compliance
+- **Visualization & Design:** Figma, Visio
 
 ---
 
 ### 🌟 **Featured Projects**
 
+📌 **[ML-Transition-Portfolio](https://github.com/vinaykumarkv/ML-Transition-Portfolio)**  
+- **Tracking my ML journey** with daily commits—notebooks, minor projects, and pharma/telecom models.  
+
 📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
-- Designed and implemented a **Star Schema** for pharmaceutical sales and prescription data.  
-- Used **Python** for data ingestion and transformation, and **Snowflake** for scalable data storage and querying.  
+- Exploring a **Star Schema** for pharma sales data using Python for ingestion and SQL for querying.
+- Learning Snowflake via personal projects.  
 
 📌 **[Data Quality Validation Framework](https://github.com/vinaykumarkv/data-quality-validation-framework)**  
-- Developed a reusable **Python + Pytest** framework to validate data quality before loading into dashboards.  
-- Automated checks for schema consistency, null handling, and referential integrity to ensure reliable analytics.  
+- Prototyped a **Python + Pytest tool** to validate data quality (schema, nulls) for dashboards.  
 
 📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
 - Created a reusable tool to digitally sign **XML files** per **ASTM standards**, enabling secure data exchange in healthcare and finance.  
@@ -42,10 +42,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinay-kumar-k-v)  
 - 🌐 [Portfolio](https://vinaykumarkv.github.io)  
 - 📧 Email: [vinaykumar.kv@outlook.com](mailto:vinaykumar.kv@outlook.com)  
-- 📄 [Resume](https://vinaykumarkv.github.io/resume.pdf)
 
 ---
 
 ### 🤝 **Let’s Collaborate!**
-I’m always open to contributing to exciting projects and sharing knowledge. Feel free to reach out or collaborate on projects related to **data systems**.  
+I’m always open to contributing to exciting projects and sharing knowledge. Feel free to reach out or collaborate on projects related to **data, ML/AI systems**.  
 Let’s build something amazing together! 🚀
