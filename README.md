@@ -1,7 +1,7 @@
 👨‍💻 **About Me**  
 🚀 **Vinay Kumar K V 👋 | Transitioning from Product Owner to ML/AI Engineer | Pharma & Telecom Focus | Building predictive models with Python/SQL | Sharing journey via GitHub, LinkedIn, & YouTube | vinaykumarkv.github.io** 
 
-🌱 Currently contributing to **open-source** by building reusable **Python solutions** that solve **real-world business problems**  
+🌱 Currently learning and contributing to **open-source**, **tutoring** & **building** data and AI solutions that solve **real-world business problems**  
 🤝 Open to collaborations on **Data, ML/AI systems using Python**
 
 ---
