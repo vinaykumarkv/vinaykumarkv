@@ -17,7 +17,7 @@
 
 ### 🌟 **Featured Projects**
 
-📌 **[AI Learning Journey]((https://github.com/vinaykumarkv/AI-Learning-Journey))**  
+📌 **[AI Learning Journey](https://github.com/vinaykumarkv/AI-Learning-Journey)**  
 - **Tracking my ML journey** with daily commits—notebooks, minor projects, and pharma/telecom models.  
 
 📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
