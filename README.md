@@ -17,15 +17,8 @@
 
 ### 🌟 **Featured Projects**
 
-📌 **[ML-Transition-Portfolio](https://github.com/vinaykumarkv/ML-Transition-Portfolio)**  
+📌 **[AI Learning Journey]((https://github.com/vinaykumarkv/AI-Learning-Journey))**  
 - **Tracking my ML journey** with daily commits—notebooks, minor projects, and pharma/telecom models.  
-
-📌 **[Data Warehouse Design in Snowflake](https://github.com/vinaykumarkv/snowflake_pharma_dw)**  
-- Exploring a **Star Schema** for pharma sales data using Python for ingestion and SQL for querying.
-- Learning Snowflake via personal projects.  
-
-📌 **[Data Quality Validation Framework](https://github.com/vinaykumarkv/data-quality-validation-framework)**  
-- Prototyped a **Python + Pytest tool** to validate data quality (schema, nulls) for dashboards.  
 
 📌 **[XML ASTM Digital Signer](https://github.com/vinaykumarkv/XMLDigSignerASTM_Python)**  
 - Created a reusable tool to digitally sign **XML files** per **ASTM standards**, enabling secure data exchange in healthcare and finance.  
