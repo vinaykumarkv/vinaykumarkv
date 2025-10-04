@@ -1,5 +1,6 @@
 👨‍💻 **About Me**  
 🚀 **Vinay Kumar K V 👋 | Transitioning from Product Owner to ML/AI Engineer | vinaykumarkv.github.io** 
+
 8+ years leading agile teams in pharma (GSK) and telecom. Currently building ML technical foundation through DataCamp certifications and hands-on projects. Domain expertise in pharma quality workflows and GxP compliance.
 🌱 Currently learning Python, statistics, and machine learning fundamentals
 🤝 Open to collaborations on data/ML projects
