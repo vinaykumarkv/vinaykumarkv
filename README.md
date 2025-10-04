@@ -2,17 +2,18 @@
 🚀 **Vinay Kumar K V 👋 | Transitioning from Product Owner to ML/AI Engineer | vinaykumarkv.github.io** 
 
 8+ years leading agile teams in pharma (GSK) and telecom. Currently building ML technical foundation through DataCamp certifications and hands-on projects. Domain expertise in pharma quality workflows and GxP compliance.
+
 🌱 Currently learning Python, statistics, and machine learning fundamentals
 🤝 Open to collaborations on data/ML projects
 
 ---
 
-###🌱 **Currently Learning**
+### 🌱 **Currently Learning**
 - Completing DataCamp Data Science certification (in progress)
 - Building ML fundamentals: Python, statistics, supervised learning
 - Exploring pharma-specific ML applications
-
-###🛠️ **Technical Skills**
+--- 
+### 🛠️ **Technical Skills**
 
 **Completed Certifications:**
 - DataCamp Data Engineer Associate (2025)
@@ -29,7 +30,7 @@
 - Pharma domain (GxP, CSV compliance)
 ---
 
-###📈 **Learning Goals for 2025**
+### 📈 **Learning Goals for 2025**
 - Complete Data Science certification
 - Build 3 portfolio ML projects (pharma quality, drug activity, churn prediction)
 - Contribute to open-source ML projects
