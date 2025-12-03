@@ -134,38 +134,41 @@ I'm a **Product Owner** with 10+ years of experience in pharmaceutical technolog
 
 ## 📈 Current Focus
 
-```python
-class VinayKumarKV:
-    def __init__(self):
-        self.role = "Product Owner & AI/ML Enthusiast"
-        self.current_focus = [
-            "AI/ML for Business Applications",
-            "Generative AI Solutions",
-            "Python for Pharma Tech",
-            "Product Strategy with AI"
-        ]
-        self.learning = [
-            "Deep Learning",
-            "Neural Networks",
-            "NLP & Text Analytics",
-            "MLOps & Model Deployment"
-        ]
-        self.goals_2025 = [
-            "Complete PGP from UT Austin",
-            "Build 10+ ML projects",
-            "Contribute to open source AI projects",
-            "Launch AI-powered product features"
-        ]
-    
-    def get_expertise(self):
-        return {
-            "product_ownership": "Expert",
-            "business_analysis": "Expert",
-            "python": "Intermediate → Advanced",
-            "ml_ai": "Learning → Proficient",
-            "gxp_compliance": "Expert"
-        }
-```
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 What I'm Working On
+- 🤖 AI/ML for Business Applications
+- ✨ Generative AI Solutions
+- 💊 Python for Pharma Tech
+- 📊 Product Strategy with AI
+
+### 📚 Currently Learning
+- 🧠 Deep Learning
+- 🔗 Neural Networks
+- 💬 NLP & Text Analytics
+- 🚀 MLOps & Model Deployment
+
+</td>
+<td width="50%">
+
+### 🎯 2025 Goals
+- ✅ Complete PGP from UT Austin
+- 💻 Build 10+ ML projects
+- 🌟 Contribute to open source AI
+- 🚀 Launch AI-powered features
+
+### 💪 Expertise Level
+- 🏆 Product Ownership: **Expert**
+- 📊 Business Analysis: **Expert**
+- 🐍 Python: **Intermediate → Advanced**
+- 🤖 ML/AI: **Learning → Proficient**
+- 📋 GxP Compliance: **Expert**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -211,7 +214,9 @@ I'm always interested in:
 
 ### 🌟 Thanks for visiting! 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/vinaykumarkv/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarkv&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/vinaykumarkv?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/vinaykumarkv?style=social)
 
 **⭐ Star my repositories if you find them useful!**
 
