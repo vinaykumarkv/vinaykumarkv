@@ -46,15 +46,23 @@ I'm a **Product Owner** with 10+ years of experience in pharmaceutical technolog
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
-  
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumarkv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumarkv&layout=compact&theme=tokyonight&hide_border=true)
+### 🎯 Currently Building My Portfolio
+*As I progress through my AI/ML program, this space will showcase:*
+- 📈 Machine Learning projects and implementations
+- 🐍 Python solutions for business problems
+- 📊 Data science and analytics work
+- 🤖 AI-powered applications
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinaykumarkv&theme=tokyonight&hide_border=true)
+**Check back soon for updates!**
+
+---
+
+### 💡 Quick Stats
+![Profile Views](https://komarev.com/ghpvc/?username=vinaykumarkv&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 
