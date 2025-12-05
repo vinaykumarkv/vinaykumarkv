@@ -153,7 +153,7 @@ I'm a **Product Owner** with 10+ years of experience in pharmaceutical technolog
 </td>
 <td width="50%">
 
-### 🎯 2025 Goals
+### 🎯 2027 Goals
 - ✅ Complete PGP from UT Austin
 - 💻 Build 10+ ML projects
 - 🌟 Contribute to open source AI
