@@ -1,12 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4a0,100:6c63ff&height=180&section=header&text=Vinay%20Kumar%20K%20V&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20%26%20Agentic%20AI%20%7C%20Pharma%20%26%20Regulated%20AI&descAlignY=58&descSize=16&descColor=ccfff4" />
-
-</div>
+# Hi, I'm Vinay Kumar K V 👋
+### Data Scientist · GenAI & Agentic AI · Pharma & Regulated AI · London, UK
 
 ---
 
-### 👋 About Me
+### About Me
 
 Technical Business Analyst turned Data Scientist with **8+ years** in pharmaceutical and regulated environments. At **GSK London** I drove LLM comparative analysis, contributed to RAG pipeline POC design, and shipped production Python utilities processing 500+ regulatory documents monthly in a GxP-compliant environment.
 
