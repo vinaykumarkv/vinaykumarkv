@@ -31,6 +31,7 @@
 | [**Churn Prediction**](https://huggingface.co/spaces/vinaykumarkv) | End-to-end ML with class imbalance handling, FastAPI + Streamlit | Scikit-learn · SMOTE · FastAPI · HuggingFace | Live ✅ |
 | [**Jira Sprint Reporter**](https://github.com/vinaykumarkv/jira-sprint-reporter) | Python + Jira API sprint analytics pipeline deployed at GSK | Python · Jira API · Pandas | Deployed ✅ |
 | **Medical RAG Assistant** | Clinical Q&A using open-source LLMs + PubMedQA | LangChain · Mistral · FAISS · HuggingFace | 🔄 In Progress |
+| **LearnWithVinay** | Free structured tech curriculum — Python to Robotics | Astro · Cloudflare · GitHub | Live ✅ |
 
 ---
 
@@ -70,8 +71,7 @@ Walsh College, USA · Delivered via Great Learning · 2025–2028
 
 **Technical Business Analyst — AI/ML Focus · TCS (Client: GSK plc) · London, UK · 2023–Present**
 - Contributed to LLM comparative evaluation (Azure Document Intelligence vs GPT-4o) for regulatory document automation
-- Collaborated on RAG pipeline POC design in a GxP-regulated environment
-- Built and deployed Python utilities in live production at GSK
+- Independently built Python tools used in live GxP production workflows at GSK
 
 **Previously:** Business Analyst & Scrum Master · TCS / GSK · Bangalore & London · 2019–2023
 
@@ -100,7 +100,8 @@ Vinay Kumar K V · Preprint · Zenodo · April 2026
 [![Portfolio](https://img.shields.io/badge/Portfolio-vinaykumarkv.github.io-navy?style=flat-square)](https://vinaykumarkv.github.io)
 [![Email](https://img.shields.io/badge/Email-vinaykumar.kv@outlook.com-red?style=flat-square&logo=microsoft-outlook)](mailto:vinaykumar.kv@outlook.com)
 [![Zenodo](https://img.shields.io/badge/Research-Zenodo-green?style=flat-square)](https://zenodo.org/records/19715048)
+[![LearnWithVinay](https://img.shields.io/badge/Education-LearnWithVinay.org-green?style=flat-square)](https://learnwithvinay.org)
 
 ---
 
-*London, UK · Open to AI/ML Engineer, Applied AI, and GenAI roles · 3 months notice*
+*London, UK · Applied AI Practitioner · Founder @LearnWithVinay.org*
