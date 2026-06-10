@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ What I Build
+## 🛠️ What I Build, still building many more
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
@@ -30,7 +30,7 @@
 | [**GxP Quality Intelligence**](https://github.com/vinaykumarkv/GxP_Quality_Intelligence_System) | NLP classifier for pharmaceutical deviation categorisation with SHAP explainability | Scikit-learn · TF-IDF · FAISS · SHAP | Complete ✅ |
 | [**Churn Prediction**](https://huggingface.co/spaces/vinaykumarkv) | End-to-end ML with class imbalance handling, FastAPI + Streamlit | Scikit-learn · SMOTE · FastAPI · HuggingFace | Live ✅ |
 | [**Jira Sprint Reporter**](https://github.com/vinaykumarkv/jira-sprint-reporter) | Python + Jira API sprint analytics pipeline deployed at GSK | Python · Jira API · Pandas | Deployed ✅ |
-| **Medical RAG Assistant** | Clinical Q&A using open-source LLMs + PubMedQA | LangChain · Mistral · FAISS · HuggingFace | 🔄 In Progress |
+| **Medical RAG Assistant** | Clinical Q&A using open-source LLMs + PubMedQA | LangChain · Mistral · FAISS · HuggingFace | Live ✅ |
 | **LearnWithVinay** | Free structured tech curriculum — Python to Robotics | Astro · Cloudflare · GitHub | Live ✅ |
 
 ---
