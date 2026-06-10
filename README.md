@@ -69,11 +69,11 @@ Walsh College, USA · Delivered via Great Learning · 2025–2028
 
 ## 💼 Experience
 
-**Technical Business Analyst — AI/ML Focus · TCS (Client: GSK plc) · London, UK · 2023–Present**
+**Technical Business Analyst — AI/ML Focus · TCS · London, UK · 2023–Present**
 - Contributed to LLM comparative evaluation (Azure Document Intelligence vs GPT-4o) for regulatory document automation
 - Independently built Python tools used in live GxP production workflows at GSK
 
-**Previously:** Business Analyst & Scrum Master · TCS / GSK · Bangalore & London · 2019–2023
+**Previously:** Business Analyst & Scrum Master · TCS · Bangalore & London · 2019–2023
 
 ---
 
