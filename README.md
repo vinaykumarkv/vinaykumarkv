@@ -18,30 +18,13 @@ PyTorch · EfficientNet-B0 · YOLOv8 · Wav2Vec2 · Multimodal Fusion
 
 ---
 
-## 🚀 Production Projects
-
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **AI Doc2XML** | Dual-agent LangChain system for pharma regulatory docs | LangChain · Azure OpenAI · Docker · FastAPI | [Demo](link) |
-| **GxP Quality Intelligence** | NLP classifier + SHAP explainability for deviation categorisation | Scikit-learn · TF-IDF · FAISS · SHAP | [Repo](link) |
-| **Medical RAG** | Clinical Q&A with open-source LLMs over medical PDFs | LangChain · Mistral · FAISS | [Demo](link) |
-| **Churn Prediction** | End-to-end ML with SMOTE, FastAPI + Streamlit | Scikit-learn · FastAPI · Streamlit | [HuggingFace](link) |
-
----
-
 ## 🛠️ Tech Stack
 
-**AI/ML:** PyTorch · LangChain · RAG · FAISS · HuggingFace Transformers · Scikit-learn · SHAP  
-**LLMs:** Azure OpenAI · Prompt Engineering · Multi-Agent Systems · Embeddings  
-**Backend:** Python · FastAPI · Streamlit · SQL · Pandas  
-**Cloud/MLOps:** Docker · Azure Container Apps · HuggingFace Spaces · Git · CI/CD  
+**AI/ML:** LLM Applications, Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Prompt Engineering, Azure OpenAI, FAISS, ChromaDB, HuggingFace Transformers, Computer Vision
+**Software Engineering & Languages:** Python, Shell Scripting, SQL, REST APIs, System Integration, XML Parsing, Data Structures & Algorithms.  
+**Cloud & Infrastructure:** Azure Cloud Services, Enterprise Networking, Linux/Windows Administration, Backup & Disaster Recovery Architecture, GxP Production Systems  
+**Methodologies & Processes:** System Architecture (URS/SRS), Agile/Scrum Development, Technical Product Delivery, Cross-Functional Stakeholder Management, Regulatory Validation Protocols (IQ/OQ/PQ)
 **Regulated AI:** GxP · GAMP 5 · Validation Documentation · Responsible AI
-
----
-
-## 📚 Currently Learning
-
-LangGraph · MLflow · Reinforcement Learning · VLA Models · Whisper
 
 ---
 
