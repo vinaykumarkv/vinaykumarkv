@@ -21,9 +21,13 @@ PyTorch · EfficientNet-B0 · YOLOv8 · Wav2Vec2 · Multimodal Fusion
 ## 🛠️ Tech Stack
 
 **AI/ML:** LLM Applications, Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Prompt Engineering, Azure OpenAI, FAISS, ChromaDB, HuggingFace Transformers, Computer Vision
+
 **Software Engineering & Languages:** Python, Shell Scripting, SQL, REST APIs, System Integration, XML Parsing, Data Structures & Algorithms.  
+
 **Cloud & Infrastructure:** Azure Cloud Services, Enterprise Networking, Linux/Windows Administration, Backup & Disaster Recovery Architecture, GxP Production Systems  
+
 **Methodologies & Processes:** System Architecture (URS/SRS), Agile/Scrum Development, Technical Product Delivery, Cross-Functional Stakeholder Management, Regulatory Validation Protocols (IQ/OQ/PQ)
+
 **Regulated AI:** GxP · GAMP 5 · Validation Documentation · Responsible AI
 
 ---
